@@ -114,7 +114,7 @@ Want a deployment guide? Just raise an issue or contact me!
 
 I'm Avneesh Sharma, an aspiring DevOps & Cloud Engineer who loves building real-world projects.
 
-🔗 https://www.linkedin.com/in/avneesh-sharma-1423b2270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 https://www.linkedin.com/in/madhusudhan-reddy-8143a5234
 
 📧 com.avnish@gmail.com
 
