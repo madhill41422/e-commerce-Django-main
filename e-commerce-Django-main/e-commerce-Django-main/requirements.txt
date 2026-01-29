@@ -1,0 +1,8 @@
+Django>=4.2
+psycopg2-binary
+pillow
+django-crispy-forms
+paypalrestsdk
+django-countries
+python-decouple
+django-allauth
