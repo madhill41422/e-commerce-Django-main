@@ -47,7 +47,7 @@ This is a full-stack e-commerce web application built with Django, designed for 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/madhill41422/e-commerce-Django-main.git
+   git clone 
    cd e-commerce-Django
 
 2. Create and activate a virtual environment:
