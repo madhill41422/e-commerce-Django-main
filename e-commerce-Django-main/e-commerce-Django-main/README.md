@@ -47,7 +47,7 @@ This is a full-stack e-commerce web application built with Django, designed for 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Avnish-web/e-commerce-Django.git
+   git clone 
    cd e-commerce-Django
 
 2. Create and activate a virtual environment:
@@ -87,16 +87,6 @@ To access the admin panel:
 
 Then go to http://127.0.0.1:8000/admin/ to log in.
 
-
----
-
-🎥 YouTube Project Video (Coming Soon)
-
-🔜 I’ll upload a complete video guide to this project on my YouTube channel:
-
-Subscribe Here ➡️ https://youtube.com/@onesecond869?si=pDpc7zV8sgpkWQ6m
-
-
 ---
 
 🌐 Optional Deployment
@@ -112,11 +102,11 @@ Want a deployment guide? Just raise an issue or contact me!
 
 🙋‍♂️ About Me
 
-I'm Avneesh Sharma, an aspiring DevOps & Cloud Engineer who loves building real-world projects.
+I'm Madhusudhan Reddy, an aspiring DevOps & Cloud Engineer who loves building real-world projects.
 
 🔗 https://www.linkedin.com/in/madhusudhan-reddy-8143a5234
 
-📧 com.avnish@gmail.com
+📧 bgmadhu4142@gmail.com
 
 
 
